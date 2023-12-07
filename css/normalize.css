@@ -21,7 +21,7 @@ html {
  */
 
 body {
-  margin: 0;
+  margin: 20;
 }
 
 /**
@@ -38,8 +38,8 @@ main {
  */
 
 h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
+  font-size: 20px;
+  margin: 20px 0;
 }
 
 /* Grouping content
@@ -63,7 +63,7 @@ hr {
 
 pre {
   font-family: monospace, monospace; /* 1 */
-  font-size: 1em; /* 2 */
+  font-size: 25px; /* 2 */
 }
 
 /* Text-level semantics
@@ -146,7 +146,7 @@ sup {
  */
 
 img {
-  border-style: none;
+  border-style: non;
 }
 
 /* Forms
@@ -163,7 +163,7 @@ optgroup,
 select,
 textarea {
   font-family: inherit; /* 1 */
-  font-size: 100%; /* 1 */
+  font-size: 10%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
 }
